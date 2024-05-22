@@ -1,0 +1,32 @@
+*{
+    padding:0;
+    margin:8px;   
+}
+header{
+    background-color:rgb(181,193,142); 
+    padding:8px;
+}
+ a{
+    margin: 20px;
+  }
+body{
+    background-color:rgb(234, 219, 200);
+    color:black;
+    height:600px;
+    margin:20px;
+    padding:15px;
+}
+a{
+    margin:30px;
+    text-decoration:none;
+    color:rgb(62, 9, 142);
+}
+img{
+    width:130px;
+    border-radius:50%;
+}
+footer{
+    background-color:rgb(199, 183, 163) ;
+    height:100px;
+}
+
